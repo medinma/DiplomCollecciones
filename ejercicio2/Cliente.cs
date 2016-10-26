@@ -6,7 +6,7 @@ using System.Text;
 
 namespace operacionesBancarias.dominio
 {
-    class Cliente
+    class Cliente:IComparable<Cliente>
     {
         // Atributos para datos
         private String primerNombre;
@@ -53,6 +53,17 @@ namespace operacionesBancarias.dominio
             {
                 return numeroDeCuentas;
             }
+        }
+
+        public int CompareTo(Cliente other)
+        {
+            int aux = 1;
+            if (other == null) return aux;
+            aux = this.Apellido.CompareTo(other.Apellido);
+            if (aux != 0) return aux;
+            aux = this.primerNombre.CompareTo(other.PrimerNombre);
+            if (aux != 0) return aux;
+            return 0;
         }
     }
 }

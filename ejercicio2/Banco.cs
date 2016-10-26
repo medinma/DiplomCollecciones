@@ -49,5 +49,10 @@ namespace operacionesBancarias.dominio
                 return numeroDeClientes;
             }
         }
+
+        public void OrdenarClientes()
+        {
+            clientes.Sort();
+        }
     }
 }

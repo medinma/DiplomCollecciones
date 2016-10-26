@@ -1,0 +1,6 @@
+D:\diplom\cap8\DiplomCollecciones\ejercicio2\bin\Debug\ejercicio2.exe.config
+D:\diplom\cap8\DiplomCollecciones\ejercicio2\obj\Debug\ejercicio2.csprojResolveAssemblyReference.cache
+D:\diplom\cap8\DiplomCollecciones\ejercicio2\bin\Debug\ejercicio2.exe
+D:\diplom\cap8\DiplomCollecciones\ejercicio2\bin\Debug\ejercicio2.pdb
+D:\diplom\cap8\DiplomCollecciones\ejercicio2\obj\Debug\ejercicio2.exe
+D:\diplom\cap8\DiplomCollecciones\ejercicio2\obj\Debug\ejercicio2.pdb

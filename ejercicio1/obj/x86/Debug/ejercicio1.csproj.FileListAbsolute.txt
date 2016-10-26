@@ -1,0 +1,4 @@
+C:\Educacion\Acomodo\Trabajo\Microsoft\Programación en .Net\Laboratorios\Ejercicios\CS\Capitulo8\Capitulo8\ejercicio1\bin\Debug\ejercicio1.exe
+C:\Educacion\Acomodo\Trabajo\Microsoft\Programación en .Net\Laboratorios\Ejercicios\CS\Capitulo8\Capitulo8\ejercicio1\bin\Debug\ejercicio1.pdb
+C:\Educacion\Acomodo\Trabajo\Microsoft\Programación en .Net\Laboratorios\Ejercicios\CS\Capitulo8\Capitulo8\ejercicio1\obj\x86\Debug\ejercicio1.exe
+C:\Educacion\Acomodo\Trabajo\Microsoft\Programación en .Net\Laboratorios\Ejercicios\CS\Capitulo8\Capitulo8\ejercicio1\obj\x86\Debug\ejercicio1.pdb
